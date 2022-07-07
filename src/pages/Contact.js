@@ -94,7 +94,7 @@ class Contact extends React.Component {
                 <div className="col-lg-12">
                     <div className="custom-form mb-sm-30">
                     <div id="message" />
-                    <form method="post" action="#" name="contact-form" id="contact-form">
+                    <form name="contact-form" id="contact-form">
                         <div className="row">
                         <div className="col-lg-4 col-md-6">
                             <div className="form-group position-relative mb-4">
